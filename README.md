@@ -14,5 +14,4 @@ Students from the University of Southern California start a project to clean and
 ### Data Source
 https://bikeshare.metro.net/about/data/
 
-### Data Cleaning
-There are 9 raw data files. Put them in the same directory with 'Data cleaning.r' and run this r file, the cleaned data'LA_metro.csv' will be generated. For your convenience, 'LA_metro.csv' is also uploaded in the format of zip file.
+From the link above, 9 raw data files are downloaded. Put them in the same directory with 'Data cleaning.r' and run this r file, the cleaned data'LA_metro.csv' will be generated. For your convenience, 'LA_metro.csv' is also uploaded in the format of zip file.
