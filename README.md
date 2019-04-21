@@ -1,8 +1,8 @@
 # LA-Metro-Bike-Share-Analysis
 DS0-545 Final Project
-# Team Members:
-Yuan Li
-Yiqing Song
+## Team Members:
+Yuan Li \n
+Yiqing Song \n
 Yin Wang
 Jialu Lu
 Haoyi Su
